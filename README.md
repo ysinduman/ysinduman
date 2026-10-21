@@ -1,18 +1,19 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7928CA,100:FF0080&height=220&section=header&text=YASIN%20DUMAN&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Systems%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20SQL%20%E2%80%A2%20Mobile&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7928CA,100:FF0080&height=220&section=header&text=YASIN%20DUMAN&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%26%20Mobile&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <!-- CANLI DAKTILO ANIMASYONU -->
 <div align="center">
   <a href="https://github.com/ysinduman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Enterprise+Backend%3A+C%23+%E2%80%A2+.NET+%E2%80%A2+Java+%E2%9A%99%EF%B8%8F;Databases%3A+MSSQL+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%F0%9F%97%84%EF%B8%8F;Cross-Platform+Mobile%3A+React+Native+%E2%80%A2+Android+%F0%9F%93%B1;Building+Scalable%2C+Robust+%26+High-Impact+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Enterprise+Backend%3A+C%23+%E2%80%A2+.NET+%E2%80%A2+Java+%E2%9A%99%EF%B8%8F;Databases%3A+MSSQL+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%F0%9F%97%84%EF%B8%8F;AI-Augmented+Workflow%3A+Claude+%E2%80%A2+Cursor+%E2%80%A2+Antigravity+%F0%9F%A4%96;Cross-Platform+Mobile%3A+React+Native+%E2%80%A2+Android+%F0%9F%93%B1;Building+Scalable%2C+Robust+%26+High-Impact+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ysinduman&label=PROFILE%20VIEWS&color=7928ca&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-00F0FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/AI--Augmented-Productivity-FFD21E?style=flat-square" alt="AI-Augmented" />
   <img src="https://img.shields.io/badge/Location-Turkey-FF0080?style=flat-square" alt="Location" />
 </p>
 
@@ -23,9 +24,9 @@
 - 💻 **Software Engineer** specializing in **Enterprise Backend, Relational Databases, and Cross-Platform Applications**.
 - ⚙️ **Backend & Enterprise:** Developing robust APIs, services, and scalable business logic using **C# / .NET** and **Java**.
 - 🗄️ **Database Architecture:** Experienced in schema design, optimization, and complex querying on **Microsoft SQL Server (MSSQL)**, **MySQL**, and **PostgreSQL**.
+- 🤖 **AI-Augmented Engineering:** Power-user of next-generation AI workflows, LLMs, and agentic tools (**ChatGPT, Claude, OpenAI Codex, Cursor, Google Antigravity, GitHub Copilot**) alongside open-source models (**Hugging Face**) to design and build high-efficiency software.
 - 📱 **Mobile & Frontend:** Building performant, responsive, and user-centric client applications with **React Native**, **Android**, and **TypeScript**.
 - 🎯 **Engineering Craftsmanship:** Strong focus on **Clean Code**, **OOP**, **SOLID** design principles, and maintainable software architecture.
-- 🚀 Passionate about solving complex engineering challenges and creating high-impact, reliable software systems.
 
 ---
 
@@ -82,7 +83,33 @@
     </td>
   </tr>
 
-  <!-- 3. MOBILE & FRONTEND -->
+  <!-- 3. AI ECOSYSTEM & LLM TOOLING -->
+  <tr>
+    <td colspan="4" align="left" bgcolor="#161b22">
+      <b>🤖 AI Ecosystem, LLMs & Agentic Tooling</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/GitHub_Copilot-8957e5?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <br/><br/>
+    </td>
+  </tr>
+
+  <!-- 4. MOBILE & FRONTEND -->
   <tr>
     <td colspan="4" align="left" bgcolor="#161b22">
       <b>📱 Mobile & Frontend Ecosystem</b>
@@ -106,7 +133,7 @@
     </td>
   </tr>
 
-  <!-- 4. TOOLS & IDEs -->
+  <!-- 5. TOOLS & IDEs -->
   <tr>
     <td colspan="4" align="left" bgcolor="#161b22">
       <b>🔧 Developer Tools & Environments</b>
