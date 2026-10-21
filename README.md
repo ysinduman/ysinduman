@@ -20,30 +20,12 @@
 
 ### 👨‍💻 About Me
 
-```typescript
-const engineer = {
-  name: "Yasin Duman",
-  title: "Software Engineer",
-  architecture: "Full-Stack Engineering & Distributed Systems",
-  coreStacks: {
-    backend: ["C#", ".NET Core / ASP.NET", "Java", "RESTful APIs", "OOP / SOLID"],
-    databases: [
-      "Microsoft SQL Server (MSSQL)",
-      "MySQL",
-      "PostgreSQL",
-      "Supabase (Cloud PostgreSQL)"
-    ],
-    clientAndMobile: ["React Native", "Android", "TypeScript", "JavaScript", "Modern Web"]
-  },
-  engineeringFocus: [
-    "Enterprise backend architecture, API design & system scalability",
-    "Relational database modeling, complex queries (T-SQL, SQL) & performance tuning",
-    "Cross-platform high-performance mobile application engineering",
-    "Clean Code, design patterns & robust software craftsmanship"
-  ],
-  motto: "Master the fundamentals, architect for scalability, build with precision."
-};
-```
+- 💻 **Software Engineer** specializing in **Enterprise Backend, Relational Databases, and Cross-Platform Applications**.
+- ⚙️ **Backend & Enterprise:** Developing robust APIs, services, and scalable business logic using **C# / .NET** and **Java**.
+- 🗄️ **Database Architecture:** Experienced in schema design, optimization, and complex querying on **Microsoft SQL Server (MSSQL)**, **MySQL**, and **PostgreSQL**.
+- 📱 **Mobile & Frontend:** Building performant, responsive, and user-centric client applications with **React Native**, **Android**, and **TypeScript**.
+- 🎯 **Engineering Craftsmanship:** Strong focus on **Clean Code**, **OOP**, **SOLID** design principles, and maintainable software architecture.
+- 🚀 Passionate about solving complex engineering challenges and creating high-impact, reliable software systems.
 
 ---
 
@@ -137,30 +119,6 @@ const engineer = {
         <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,gradle" />
       </a>
       <br/><br/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Project: [Stickman Workout](https://github.com/ysinduman/StickmanWorkout)
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h4>⚡ Calisthenics Fitness & Procedural Muscle Evolution Engine</h4>
-      <p>Bare <b>React Native (Hermes)</b>, <b>TypeScript</b> ve <b>Cloud Backend (Supabase / PostgreSQL)</b> ile inşa edilmiş tam teşekküllü mobil fitness ekosistemi.</p>
-      <ul>
-        <li>🤖 <b>Computer Vision & AI Tracking:</b> Kamera tabanlı açı analizi ile Şınav, Squat, Plank ve Mekik egzersizlerini gerçek zamanlı sayım ve doğrulama.</li>
-        <li>🧬 <b>Prosedürel Vektör Motoru:</b> 11 kas bölgesi için 1-100+ seviye hipertrofi, vaskülarite ve altın prestij dinamik matematiksel SVG çizimi.</li>
-        <li>🗄️ <b>Veritabanı & Güvenlik Mimarisi:</b> Supabase PostgreSQL üzerinde Row Level Security (RLS) ve Security Definer RPC fonksiyonları.</li>
-      </ul>
-      <p>👉 <a href="https://github.com/ysinduman/StickmanWorkout"><b>Depoyu İncele & Yıldızla ⭐</b></a></p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/React_Native-0.87-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
