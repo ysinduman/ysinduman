@@ -1,12 +1,14 @@
-<!-- HERO BANNER -->
+<!-- HERO BANNER (Native SVG hosted directly in repository, 100% reliable) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7928CA,100:FF0080&height=220&section=header&text=YASIN%20DUMAN&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%26%20Mobile&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://raw.githubusercontent.com/ysinduman/ysinduman/main/banner.svg" width="100%" alt="Yasin Duman Banner" />
 </div>
 
-<!-- CANLI DAKTILO ANIMASYONU -->
+<br/>
+
+<!-- CANLI DAKTILO ANIMASYONU (Genişlik 800px olarak ayarlandı, hiçbir metin kesilmez) -->
 <div align="center">
   <a href="https://github.com/ysinduman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Enterprise+Backend%3A+C%23+%E2%80%A2+.NET+%E2%80%A2+Java+%E2%9A%99%EF%B8%8F;Databases%3A+MSSQL+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%F0%9F%97%84%EF%B8%8F;AI-Augmented+Workflow%3A+Claude+%E2%80%A2+Cursor+%E2%80%A2+Antigravity+%F0%9F%A4%96;Cross-Platform+Mobile%3A+React+Native+%E2%80%A2+Android+%F0%9F%93%B1;Building+Scalable%2C+Robust+%26+High-Impact+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Enterprise+Backend%3A+.NET+%E2%80%A2+C%23+%E2%80%A2+Java+%E2%9A%99%EF%B8%8F;Databases%3A+MSSQL+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%F0%9F%97%84%EF%B8%8F;AI+Tools%3A+Claude+%E2%80%A2+Cursor+%E2%80%A2+Antigravity+%E2%80%A2+Codex+%F0%9F%A4%96;Cross-Platform+Mobile%3A+React+Native+%E2%80%A2+Android+%F0%9F%93%B1;Building+Scalable%2C+Robust+%26+High-Impact+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -183,7 +185,5 @@
   </a>
 </p>
 
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0080,50:7928CA,100:00F0FF&height=100&section=footer" width="100%" />
-</div>
+<!-- ELEGANT GRADIENT LINE FOOTER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%">
