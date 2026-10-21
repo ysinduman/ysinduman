@@ -1,18 +1,18 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7928CA,100:FF0080&height=210&section=header&text=YASIN%20DUMAN&fontSize=48&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20React%20Native%20%E2%80%A2%20Android%20%E2%80%A2%20TypeScript&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7928CA,100:FF0080&height=220&section=header&text=YASIN%20DUMAN&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Systems%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20SQL%20%E2%80%A2%20Mobile&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <!-- CANLI DAKTILO ANIMASYONU -->
 <div align="center">
   <a href="https://github.com/ysinduman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Building+High-Performance+Mobile+Apps+%F0%9F%93%B1;React+Native+%E2%80%A2+Android+Architecture+%E2%80%A2+TypeScript;Gamified+UX+%26+Procedural+Visual+Engines+%E2%9A%A1;Integrating+Computer+Vision+%26+Mobile+AI+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer+%F0%9F%92%BB;Enterprise+Backend%3A+C%23+%E2%80%A2+.NET+%E2%80%A2+Java+%E2%9A%99%EF%B8%8F;Databases%3A+MSSQL+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%F0%9F%97%84%EF%B8%8F;Cross-Platform+Mobile%3A+React+Native+%E2%80%A2+Android+%F0%9F%93%B1;Building+Scalable%2C+Robust+%26+High-Impact+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ysinduman&label=PROFILE%20VIEWS&color=7928ca&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00F0FF?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-00F0FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Turkey-FF0080?style=flat-square" alt="Location" />
 </p>
 
@@ -23,74 +23,151 @@
 ```typescript
 const engineer = {
   name: "Yasin Duman",
-  role: "Mobile Software Engineer",
-  primaryFocus: "Cross-Platform Mobile Development (React Native & Android)",
-  interests: [
-    "High-Performance Mobile Architectures",
-    "Procedural Graphics & SVG Game Engines",
-    "AI-Assisted Computer Vision (Pose Tracking)",
-    "Dopamine-Driven Gamification Loops"
+  title: "Software Engineer",
+  architecture: "Full-Stack Engineering & Distributed Systems",
+  coreStacks: {
+    backend: ["C#", ".NET Core / ASP.NET", "Java", "RESTful APIs", "OOP / SOLID"],
+    databases: [
+      "Microsoft SQL Server (MSSQL)",
+      "MySQL",
+      "PostgreSQL",
+      "Supabase (Cloud PostgreSQL)"
+    ],
+    clientAndMobile: ["React Native", "Android", "TypeScript", "JavaScript", "Modern Web"]
+  },
+  engineeringFocus: [
+    "Enterprise backend architecture, API design & system scalability",
+    "Relational database modeling, complex queries (T-SQL, SQL) & performance tuning",
+    "Cross-platform high-performance mobile application engineering",
+    "Clean Code, design patterns & robust software craftsmanship"
   ],
-  currentGoal: "Building state-of-the-art interactive mobile experiences",
-  motto: "Code clean, ship fast, elevate user experience."
+  motto: "Master the fundamentals, architect for scalability, build with precision."
 };
 ```
-
----
-
-### 🚀 Flagship Project: [Stickman Workout](https://github.com/ysinduman/StickmanWorkout)
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h4>⚡ Calisthenics Fitness & Procedural Muscle Evolution Engine</h4>
-      <p>Bare <b>React Native 0.87 (Hermes)</b> ve <b>TypeScript</b> ile geliştirilen, streak ve kas gruplarına göre gerçek zamanlı evrimleşen mobil fitness ekosistemi.</p>
-      <ul>
-        <li>🤖 <b>AI Kamera Takibi:</b> Web tabanlı bilgisayarlı görü (Computer Vision) ile Şınav, Squat, Plank ve Mekik açı analizi.</li>
-        <li>🧬 <b>1–100 Dinamik SVG Kas Motoru:</b> Statik görseller yerine matematiksel hipertrofi, vaskülarite ve altın prestij aşamaları.</li>
-        <li>🔥 <b>Supabase Cloud & Gamification:</b> Güvenli RPC'ler, streak koruma algoritmaları ve rozet ekonomisi.</li>
-      </ul>
-      <p>👉 <a href="https://github.com/ysinduman/StickmanWorkout"><b>Depoyu İncele & Yıldızla ⭐</b></a></p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/React_Native-0.87-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
 <table align="center" width="100%">
+  <!-- 1. BACKEND & ENTERPRISE LANGUAGES -->
   <tr>
-    <td align="center" width="25%"><b>📱 Mobile & Frontend</b></td>
-    <td align="center" width="25%"><b>⚙️ State & Logic</b></td>
-    <td align="center" width="25%"><b>☁️ Backend & Data</b></td>
-    <td align="center" width="25%"><b>🔧 Tools & DevOps</b></td>
+    <td colspan="4" align="left" bgcolor="#161b22">
+      <b>⚙️ Enterprise Backend & Core Languages</b>
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=react,ts,js,android,html,css" />
+    <td colspan="4" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,js,nodejs" />
+      </a>
+      <br/><br/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=redux,tailwind" /><br/>
-      <sub>Zustand • Reanimated</sub>
+  </tr>
+
+  <!-- 2. DATABASES & DATA STORAGE -->
+  <tr>
+    <td colspan="4" align="left" bgcolor="#161b22">
+      <b>🗄️ Relational Databases & Cloud Data</b>
     </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs" />
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite" />
+      </a>
+      <br/><br/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,gradle" />
+  </tr>
+
+  <!-- 3. MOBILE & FRONTEND -->
+  <tr>
+    <td colspan="4" align="left" bgcolor="#161b22">
+      <b>📱 Mobile & Frontend Ecosystem</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,android,tailwind,redux,html,css" />
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+
+  <!-- 4. TOOLS & IDEs -->
+  <tr>
+    <td colspan="4" align="left" bgcolor="#161b22">
+      <b>🔧 Developer Tools & Environments</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,gradle" />
+      </a>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🚀 Featured Project: [Stickman Workout](https://github.com/ysinduman/StickmanWorkout)
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h4>⚡ Calisthenics Fitness & Procedural Muscle Evolution Engine</h4>
+      <p>Bare <b>React Native (Hermes)</b>, <b>TypeScript</b> ve <b>Cloud Backend (Supabase / PostgreSQL)</b> ile inşa edilmiş tam teşekküllü mobil fitness ekosistemi.</p>
+      <ul>
+        <li>🤖 <b>Computer Vision & AI Tracking:</b> Kamera tabanlı açı analizi ile Şınav, Squat, Plank ve Mekik egzersizlerini gerçek zamanlı sayım ve doğrulama.</li>
+        <li>🧬 <b>Prosedürel Vektör Motoru:</b> 11 kas bölgesi için 1-100+ seviye hipertrofi, vaskülarite ve altın prestij dinamik matematiksel SVG çizimi.</li>
+        <li>🗄️ <b>Veritabanı & Güvenlik Mimarisi:</b> Supabase PostgreSQL üzerinde Row Level Security (RLS) ve Security Definer RPC fonksiyonları.</li>
+      </ul>
+      <p>👉 <a href="https://github.com/ysinduman/StickmanWorkout"><b>Depoyu İncele & Yıldızla ⭐</b></a></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/React_Native-0.87-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ysinduman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
@@ -105,7 +182,7 @@ const engineer = {
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect & Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/" target="_blank">
